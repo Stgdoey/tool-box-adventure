@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Season of the Apprentice",
+    "startDate": "2025-08-01",
+    "endDate": "2025-10-31",
+    "milestones": [
+      {
+        "xpThreshold": 25,
+        "reward": "Starter Wrench Badge"
+      },
+      {
+        "xpThreshold": 75,
+        "reward": "Toolbox Blueprint Badge"
+      },
+      {
+        "xpThreshold": 150,
+        "reward": "Golden Wrench Relic"
+      }
+    ]
+  },
+  {
+    "name": "Season of the Builder",
+    "startDate": "2025-11-01",
+    "endDate": "2026-01-31",
+    "milestones": [
+      {
+        "xpThreshold": 30,
+        "reward": "Steel Hammer Badge"
+      },
+      {
+        "xpThreshold": 80,
+        "reward": "Forge Master Badge"
+      },
+      {
+        "xpThreshold": 160,
+        "reward": "Eternal Flame Badge"
+      }
+    ]
+  }
+]
